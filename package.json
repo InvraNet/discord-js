@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.5.0",
+    "@discordjs/voice": "^0.14.0",
+    "discord-api-types": "^0.37.23",
+    "discord-player": "^5.3.2",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "lavalink": "^2.13.0",
+    "opusscript": "^0.0.8",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.2"
+  },
+  "type": "module",
+  "main": "index.js"
+}
